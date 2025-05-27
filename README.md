@@ -10,4 +10,4 @@ MacOS and Linux:
 
 Windows:
 
-``
+`~/AppData/Local/nvim/`
